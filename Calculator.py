@@ -39,14 +39,15 @@ def calculator():
     if choice == '1':
         print("Result:", add(num1, num2))
     elif choice == '2':
-        print("Result:", add(num1, num2))
+        print("Result:", subtract(num1, num2))
     elif choice == '3':
-        print("Result:", add(num1, num2))
+        print("Result:", multiply(num1, num2))
     elif choice == '4':
-        print("Result:", add(num1, num2))
+        print("Result:", divide(num1, num2))
     else:
         print("Invalid choice")
 
 
 if __name__ == "__main__":
+
     calculator()
