@@ -32,6 +32,9 @@ def calculator():
     print("4. Divide")
 
     choice = input("Enter choice (1/2/3/4): ")
+    if choice not in['1', '2', '3', '4']:
+        print("Invalid choice. please select 1, 2, 3, or 4.")
+        return
 
     num1, num2 = get_input()
     if num1 is None or num2 is None:
