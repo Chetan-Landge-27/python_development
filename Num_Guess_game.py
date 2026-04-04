@@ -1,10 +1,3 @@
-"""
-Number Guessing Game
-Author: Python Developer Intern
-Description:
-    A simple interactive game where the user tries to guess
-    a randomly generated number within a given range.
-"""
 
 import random
 
