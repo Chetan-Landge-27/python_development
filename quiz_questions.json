@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "category": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the capital of France?",
+    "answers": ["paris"],
+    "points": 10
+  },
+  {
+    "id": 2,
+    "category": "Science",
+    "difficulty": "Easy",
+    "question": "What gas do plants absorb during photosynthesis?",
+    "answers": ["carbon dioxide", "co2"],
+    "points": 10
+  },
+  {
+    "id": 3,
+    "category": "History",
+    "difficulty": "Easy",
+    "question": "Who was the first President of the United States?",
+    "answers": ["george washington", "washington"],
+    "points": 10
+  },
+  {
+    "id": 4,
+    "category": "Music",
+    "difficulty": "Easy",
+    "question": "Which band performed the famous song 'Bohemian Rhapsody'?",
+    "answers": ["queen"],
+    "points": 10
+  },
+  {
+    "id": 5,
+    "category": "Dance",
+    "difficulty": "Easy",
+    "question": "Which Latin dance originated in the Dominican Republic?",
+    "answers": ["merengue"],
+    "points": 10
+  },
+  {
+    "id": 6,
+    "category": "Science",
+    "difficulty": "Medium",
+    "question": "What is the chemical symbol for Gold?",
+    "answers": ["au"],
+    "points": 20
+  },
+  {
+    "id": 7,
+    "category": "History",
+    "difficulty": "Medium",
+    "question": "Who painted the Mona Lisa?",
+    "answers": ["leonardo da vinci", "da vinci"],
+    "points": 20
+  },
+  {
+    "id": 8,
+    "category": "Geography",
+    "difficulty": "Medium",
+    "question": "What is the smallest country in the world by area?",
+    "answers": ["vatican city", "vatican"],
+    "points": 20
+  },
+  {
+    "id": 9,
+    "category": "Science",
+    "difficulty": "Hard",
+    "question": "Who developed the theory of relativity?",
+    "answers": ["albert einstein", "einstein"],
+    "points": 30
+  },
+  {
+    "id": 10,
+    "category": "Geography",
+    "difficulty": "Hard",
+    "question": "What is the deepest ocean trench in the world?",
+    "answers": ["mariana trench", "mariana"],
+    "points": 30
+  }
+]
